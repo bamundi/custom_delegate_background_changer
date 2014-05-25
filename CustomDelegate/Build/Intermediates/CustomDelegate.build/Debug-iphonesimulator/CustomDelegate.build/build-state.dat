@@ -1,0 +1,750 @@
+TCustomDelegate
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/PrecompiledHeaders/CustomDelegate-Prefix-aonbvaeswvxsvfgkmjagrjjuampy/CustomDelegate-Prefix.pch.pch CustomDelegate/CustomDelegate-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/ViewController.o /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/BgSlider.o /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/BgSlider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/AppDelegate.o /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/main.o /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/CustomDelegate normal i386
+cCompileStoryboard /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/Base.lproj/Main_iPad.storyboard
+cCompileStoryboard /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/Base.lproj/Main_iPhone.storyboard
+cCopyStringsFile /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/en.lproj/InfoPlist.strings CustomDelegate/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/Images.xcassets
+cProcessInfoPlistFile /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/Info.plist /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/CustomDelegate-Info.plist
+cGenerateDSYMFile /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app.dSYM /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/CustomDelegate
+cTouch /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534724B30000000000000198
+t1397171379
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531EB01500000000000003B4
+t1394520085
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531EB026000000000000019E
+t1394520102
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000531EB02A000000000058E0E0
+t1394520106
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531EB02B00000000005B82F0
+t1394520107
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534724290000000000446820
+t1397171241
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000531EB02B00000000003599D0
+t1394520107
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000531EB02C00000000002FC3B0
+t1394520108
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000531EB02C000000000004B000
+t1394520108
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531EB02E000000000088D8C0
+t1394520110
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000531EB0310000000000037680
+t1394520113
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000531EB032000000000048F720
+t1394520114
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000531EB032000000000013FD70
+t1394520114
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531EB0380000000001F1DE10
+t1394520120
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000531EB05200000000002BC360
+t1394520146
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000531EB0600000000000002338
+t1394520160
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000531EB062000000000008D370
+t1394520162
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000531EB0620000000000392E20
+t1394520162
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c00000000531568E500000000000141F0
+t1393912037
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000531EB0630000000000014A80
+t1394520163
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000531EB0630000000000033BA0
+t1394520163
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000531EB063000000000001CFB0
+t1394520163
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000531EB063000000000001B2B0
+t1394520163
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000531EB06300000000000C9570
+t1394520163
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000531EB0630000000000063280
+t1394520163
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000531EB0630000000000008880
+t1394520163
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000531EB0630000000000015080
+t1394520163
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000531EB06300000000000230F0
+t1394520163
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000531EB063000000000000E380
+t1394520163
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000531EB0630000000000089380
+t1394520163
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000531EB0630000000000017320
+t1394520163
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000531EB0630000000000039CD0
+t1394520163
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000531EB063000000000000B0B0
+t1394520163
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000531EB0630000000000167E80
+t1394520163
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000531EB06300000000000106A0
+t1394520163
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000531EB063000000000001CE40
+t1394520163
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000531EB06300000000000740C0
+t1394520163
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000531EB063000000000006CA60
+t1394520163
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000531EB063000000000001BAD0
+t1394520163
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000531EB0630000000000084A20
+t1394520163
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531EB06E0000000000000ADC
+t1394520174
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000053472429000000000000514C
+t1397171241
+s20812
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/BgSlider.h
+c00000000538229330000000000000254
+t1401039155
+s596
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/BgSlider.m
+c0000000053822C470000000000000399
+t1401039943
+s921
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/AppDelegate.o
+t1401040817
+s62472
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/BgSlider.o
+t1401040817
+s45552
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/CustomDelegate.LinkFileList
+c0000000053822FAD00000000000002D9
+t1401040813
+s729
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/ViewController.o
+t1401041286
+s50964
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/main.o
+t1401040817
+s3632
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/assetcatalog_dependencies.txt
+t1401040837
+s483
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/assetcatalog_generated_info.plist
+t1401040837
+s525
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/PrecompiledHeaders/CustomDelegate-Prefix-aonbvaeswvxsvfgkmjagrjjuampy/CustomDelegate-Prefix.pch.pch
+t1401040814
+s122732
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app
+t1401041286
+s306
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app.dSYM
+t1401041231
+s102
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/Base.lproj/Main_iPad.storyboardc
+t1401040835
+s170
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/Base.lproj/Main_iPhone.storyboardc
+t1401040835
+s170
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/CustomDelegate
+t1401041286
+s23820
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/Info.plist
+t1401040837
+s1314
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/PkgInfo
+t1401040837
+s8
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/en.lproj/InfoPlist.strings
+t1401040835
+s42
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/AppDelegate.h
+c00000000538222DD0000000000000122
+t1401037533
+s290
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/AppDelegate.m
+c00000000538222DD00000000000007E4
+t1401037533
+s2020
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/Base.lproj/Main_iPad.storyboard
+c00000000538222DD0000000000000713
+t1401037533
+s1811
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/Base.lproj/Main_iPhone.storyboard
+c00000000538222DD000000000000071B
+t1401037533
+s1819
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/CustomDelegate-Info.plist
+c00000000538222DD0000000000000640
+t1401037533
+s1600
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/CustomDelegate-Prefix.pch
+c00000000538222DD0000000000000158
+t1401037533
+s344
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/Images.xcassets
+c00000000538222DD0000000000000088
+t1401037533
+s136
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/ViewController.h
+c0000000053822C91000000000000010B
+t1401040017
+s267
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/ViewController.m
+c00000000538231830000000000000ADA
+t1401041283
+s2778
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/en.lproj/InfoPlist.strings
+c00000000538222DD000000000000002D
+t1401037533
+s45
+
+N/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/main.m
+c00000000538222DD000000000000015E
+t1401037533
+s350
+
+N/usr/lib/libSystem.B.dylib
+c0000000052AD132F000000000000E6D0
+t1387074351
+s59088
+
+N/usr/lib/system/libcache.dylib
+c0000000052AD134A0000000000012A00
+t1387074378
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000052AD1316000000000002E320
+t1387074326
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000052AD132F0000000000021860
+t1387074351
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000052AD1349000000000001B620
+t1387074377
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c0000000052AD134900000000000BD920
+t1387074377
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c00000000531568E500000000000141F0
+t1393912037
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000052AD134A000000000000A120
+t1387074378
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c00000000531568E5000000000001D550
+t1393912037
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c0000000052AD13480000000000014EE0
+t1387074376
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c0000000052AD134D0000000000010380
+t1387074381
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000052AD134D000000000000C4C0
+t1387074381
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c0000000052AD134A00000000000357A0
+t1387074378
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000052AD134A000000000000C070
+t1387074378
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000530299D10000000000168D00
+t1392679377
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000531568E50000000000010630
+t1393912037
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c00000000531568E5000000000001DF10
+t1393912037
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000052AD132F0000000000075B00
+t1387074351
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005356FB72000000000007CC70
+t1398209394
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000052AD132F00000000000766C0
+t1387074351
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000530299D00000000000044DC0
+t1392679376
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000052AD132F0000000000021FA0
+t1387074351
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c00000000531568E5000000000002D920
+t1393912037
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000052AD134B000000000001E570
+t1387074379
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c00000000531568E5000000000000CC70
+t1393912037
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000052AD1340000000000000C3F0
+t1387074368
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c0000000052AD134B00000000000199F0
+t1387074379
+s104944
+
+CBuild AST from /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/BgSlider.m
+r0
+
+CBuild AST from /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/AppDelegate.m
+r0
+
+CBuild AST from /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/BGSlider.m
+r0
+
+CBuild AST from /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/BgSlider.m
+r0
+
+CBuild AST from /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/ViewController.m
+r0
+
+CBuild AST from /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6327ec056932b941^af5df2056932b941^---0#1#1#--18"Check dependencies36"8F59A4D1-6C5B-40F1-8D60-D0A6EFC7E3C1-
+
+CCompileAssetCatalog /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/Images.xcassets
+s422733635.278583
+e422733637.551866
+r1
+xCompileAssetCatalog
+x/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app
+x/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/LaunchImage-700-568h@2x.png
+o/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/Assets.car
+o/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CompileAssetCatalog Build/Products/Debug-iphonesimulator/CustomDelegate.app CustomDelegate/Images.xcassets106"CompileAssetCatalog Build/Products/Debug-iphonesimulator/CustomDelegate.app CustomDelegate/Images.xcassets776947436732b941^e0478d456732b941^-511"/* com.apple.actool.compilation-results *//Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/LaunchImage-700-568h@2x.png/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/Assets.car/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@104"file:///Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/Images.xcassets/0000000000000000^1350"CompileAssetCatalog Build/Products/Debug-iphonesimulator/CustomDelegate.app CustomDelegate/Images.xcassets    cd /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --target-device ipad --compress-pngs --compile /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/Images.xcassets36"68E445CF-1DBE-478E-9CC2-B9EB157C91CC-
+b829C87A4-E599-4CB4-8D16-3881FC72D0B4
+
+CCompileC Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/AppDelegate.o /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422733617.056381
+e422733617.278935
+r1
+xCompileC
+xBuild/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/AppDelegate.o
+x/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/AppDelegate.m
+d/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/AppDelegate.m223"CompileC Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/AppDelegate.o CustomDelegate/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfb910e316732b941^236947316732b941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/AppDelegate.m0000000000000000^4226"CompileC Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/AppDelegate.o CustomDelegate/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/willie/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/CustomDelegate-generated-files.hmap -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/CustomDelegate-own-target-headers.hmap -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/CustomDelegate-all-target-headers.hmap -iquote /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/CustomDelegate-project-headers.hmap -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/DerivedSources/i386 -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/DerivedSources -F/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator -include /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/PrecompiledHeaders/CustomDelegate-Prefix-aonbvaeswvxsvfgkmjagrjjuampy/CustomDelegate-Prefix.pch -MMD -MT dependencies -MF /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/AppDelegate.dia -c /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/AppDelegate.m -o /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/AppDelegate.o36"4C7BEA96-03C3-4806-A740-3D7A646F2DC5-
+b829C87A4-E599-4CB4-8D16-3881FC72D0B4
+
+CCompileC Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/BGSlider.o /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/BGSlider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/BgSlider.o /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/BgSlider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422733614.259866
+e422733617.056935
+r1
+xCompileC
+xBuild/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/BgSlider.o
+x/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/BgSlider.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/BgSlider.m
+d/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/BgSlider.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/BgSlider.m202"CompileC Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/BgSlider.o BgSlider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler98a4422e6732b941^85b40e316732b941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/BgSlider.m0000000000000000^4178"CompileC Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/BgSlider.o BgSlider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/willie/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/CustomDelegate-generated-files.hmap -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/CustomDelegate-own-target-headers.hmap -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/CustomDelegate-all-target-headers.hmap -iquote /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/CustomDelegate-project-headers.hmap -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/DerivedSources/i386 -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/DerivedSources -F/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator -include /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/PrecompiledHeaders/CustomDelegate-Prefix-aonbvaeswvxsvfgkmjagrjjuampy/CustomDelegate-Prefix.pch -MMD -MT dependencies -MF /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/BgSlider.d --serialize-diagnostics /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/BgSlider.dia -c /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/BgSlider.m -o /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/BgSlider.o36"AC0B7813-DF39-4EF8-8E6F-DD4F7FDF4A9B-
+b829C87A4-E599-4CB4-8D16-3881FC72D0B4
+
+CCompileC Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/BgSlider.o /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/BgSlider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/ViewController.o /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422734085.924520
+e422734086.049985
+r1
+xCompileC
+xBuild/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/ViewController.o
+x/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/ViewController.m
+d/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/ViewController.h
+d/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/BgSlider.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/ViewController.m229"CompileC Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/ViewController.o CustomDelegate/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler24d0ec056932b941^a0180d066932b941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/ViewController.m0000000000000000^4244"CompileC Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/ViewController.o CustomDelegate/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/willie/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/CustomDelegate-generated-files.hmap -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/CustomDelegate-own-target-headers.hmap -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/CustomDelegate-all-target-headers.hmap -iquote /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/CustomDelegate-project-headers.hmap -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/DerivedSources/i386 -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/DerivedSources -F/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator -include /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/PrecompiledHeaders/CustomDelegate-Prefix-aonbvaeswvxsvfgkmjagrjjuampy/CustomDelegate-Prefix.pch -MMD -MT dependencies -MF /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/ViewController.dia -c /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/ViewController.m -o /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/ViewController.o36"70371F36-F220-4E91-B3D6-2EFC29B658A0-
+b23A50B07-AEA5-40A0-A652-B97F44C03B6B
+
+CCompileC Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/main.o /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422733617.058323
+e422733617.133333
+r1
+xCompileC
+xBuild/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/main.o
+x/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/main.m
+d/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/main.m209"CompileC Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/main.o CustomDelegate/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6b0f0f316732b941^702222316732b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/main.m0000000000000000^4184"CompileC Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/main.o CustomDelegate/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/willie/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/CustomDelegate-generated-files.hmap -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/CustomDelegate-own-target-headers.hmap -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/CustomDelegate-all-target-headers.hmap -iquote /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/CustomDelegate-project-headers.hmap -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/DerivedSources/i386 -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/DerivedSources -F/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator -include /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/PrecompiledHeaders/CustomDelegate-Prefix-aonbvaeswvxsvfgkmjagrjjuampy/CustomDelegate-Prefix.pch -MMD -MT dependencies -MF /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/main.dia -c /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/main.m -o /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/main.o36"7E48FB8B-3EF2-47FF-81BD-83440C3A96E7-
+b829C87A4-E599-4CB4-8D16-3881FC72D0B4
+
+CCompileStoryboard /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/Base.lproj/Main_iPad.storyboard
+s422733618.621295
+e422733635.263954
+r1
+xCompileStoryboard
+x/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/Base.lproj/Main_iPad.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"CompileStoryboard CustomDelegate/Base.lproj/Main_iPad.storyboard64"CompileStoryboard CustomDelegate/Base.lproj/Main_iPad.storyboard46239f326732b941^0aa246436732b941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/Base.lproj/Main_iPad.storyboard0000000000000000^956"CompileStoryboard CustomDelegate/Base.lproj/Main_iPad.storyboard    cd /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/Base.lproj/Main_iPad.storyboardc /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/Base.lproj/Main_iPad.storyboard36"66553A17-EA6A-443B-88E4-C387954537F0-
+b829C87A4-E599-4CB4-8D16-3881FC72D0B4
+
+CCompileStoryboard /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/Base.lproj/Main_iPhone.storyboard
+s422733618.621927
+e422733635.229296
+r1
+xCompileStoryboard
+x/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/Base.lproj/Main_iPhone.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"CompileStoryboard CustomDelegate/Base.lproj/Main_iPhone.storyboard66"CompileStoryboard CustomDelegate/Base.lproj/Main_iPhone.storyboardd4489f326732b941^9fe83a436732b941^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/Base.lproj/Main_iPhone.storyboard0000000000000000^962"CompileStoryboard CustomDelegate/Base.lproj/Main_iPhone.storyboard    cd /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/Base.lproj/Main_iPhone.storyboardc /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/Base.lproj/Main_iPhone.storyboard36"1CA9531C-D2B1-4E5F-979F-6456FED71F73-
+b829C87A4-E599-4CB4-8D16-3881FC72D0B4
+
+CCopyStringsFile /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/en.lproj/InfoPlist.strings CustomDelegate/en.lproj/InfoPlist.strings
+s422733635.230620
+e422733635.278379
+r1
+xCopyStringsFile
+x/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/en.lproj/InfoPlist.strings
+xCustomDelegate/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy CustomDelegate/en.lproj/InfoPlist.strings140"CopyStringsFile Build/Products/Debug-iphonesimulator/CustomDelegate.app/en.lproj/InfoPlist.strings CustomDelegate/en.lproj/InfoPlist.stringsb4213b436732b941^84494d436732b941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/en.lproj/InfoPlist.strings0000000000000000^675"CopyStringsFile Build/Products/Debug-iphonesimulator/CustomDelegate.app/en.lproj/InfoPlist.strings CustomDelegate/en.lproj/InfoPlist.strings    cd /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/en.lproj -- CustomDelegate/en.lproj/InfoPlist.strings36"632C9BC8-3A1E-4F5E-97D6-0247276C718C-
+b829C87A4-E599-4CB4-8D16-3881FC72D0B4
+
+CGenerateDSYMFile /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app.dSYM /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/CustomDelegate
+s422734086.107318
+e422734086.134055
+r1
+xGenerateDSYMFile
+x/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app.dSYM
+x/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/CustomDelegate
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Generate /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app.dSYM148"GenerateDSYMFile Build/Products/Debug-iphonesimulator/CustomDelegate.app.dSYM Build/Products/Debug-iphonesimulator/CustomDelegate.app/CustomDelegate2b8a1b066932b941^300d23066932b941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app.dSYM/0000000000000000^784"GenerateDSYMFile Build/Products/Debug-iphonesimulator/CustomDelegate.app.dSYM Build/Products/Debug-iphonesimulator/CustomDelegate.app/CustomDelegate    cd /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/CustomDelegate -o /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app.dSYM36"AE49222B-7BD3-4F13-8CEC-34FD323849A8-
+b23A50B07-AEA5-40A0-A652-B97F44C03B6B
+
+CLd /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/CustomDelegate normal i386
+s422734086.053266
+e422734086.104935
+r1
+xLd
+x/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/CustomDelegate
+xnormal
+xi386
+d/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/CustomDelegate.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/ViewController.o
+d/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/BgSlider.o
+d/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/AppDelegate.o
+d/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Link /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/CustomDelegate85"Ld Build/Products/Debug-iphonesimulator/CustomDelegate.app/CustomDelegate normal i38641b90d066932b941^f4e01a066932b941^---0#0#1#--1621"Ld Build/Products/Debug-iphonesimulator/CustomDelegate.app/CustomDelegate normal i386    cd /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator -F/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator -filelist /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/CustomDelegate.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/Objects-normal/i386/CustomDelegate_dependency_info.dat -o /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/CustomDelegate36"B2AA3D1E-0311-4EBC-BB7A-9B9A4DF2DF49-
+b23A50B07-AEA5-40A0-A652-B97F44C03B6B
+
+CProcessInfoPlistFile /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/Info.plist /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/CustomDelegate-Info.plist
+s422733637.552777
+e422733637.560895
+r1
+xProcessInfoPlistFile
+x/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/Info.plist
+x/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/CustomDelegate-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Process /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/CustomDelegate-Info.plist128"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/CustomDelegate.app/Info.plist CustomDelegate/CustomDelegate-Info.plist85968d456732b941^389e8f456732b941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/CustomDelegate-Info.plist0000000000000000^1080"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/CustomDelegate.app/Info.plist CustomDelegate/CustomDelegate-Info.plist    cd /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/CustomDelegate-Info.plist -genpkginfo /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/assetcatalog_generated_info.plist -o /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app/Info.plist36"E3D35796-B718-48E0-AA5F-B24DF9B06E03-
+b829C87A4-E599-4CB4-8D16-3881FC72D0B4
+
+CProcessPCH /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/PrecompiledHeaders/CustomDelegate-Prefix-aonbvaeswvxsvfgkmjagrjjuampy/CustomDelegate-Prefix.pch.pch CustomDelegate/CustomDelegate-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422733613.181052
+e422733614.258050
+r1
+xProcessPCH
+x/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/PrecompiledHeaders/CustomDelegate-Prefix-aonbvaeswvxsvfgkmjagrjjuampy/CustomDelegate-Prefix.pch.pch
+xCustomDelegate/CustomDelegate-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/CustomDelegate-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile CustomDelegate/CustomDelegate-Prefix.pch239"ProcessPCH Build/Intermediates/PrecompiledHeaders/CustomDelegate-Prefix-aonbvaeswvxsvfgkmjagrjjuampy/CustomDelegate-Prefix.pch.pch CustomDelegate/CustomDelegate-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler34812e2d6732b941^0610422e6732b941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/CustomDelegate-Prefix.pch0000000000000000^4072"ProcessPCH Build/Intermediates/PrecompiledHeaders/CustomDelegate-Prefix-aonbvaeswvxsvfgkmjagrjjuampy/CustomDelegate-Prefix.pch.pch CustomDelegate/CustomDelegate-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/willie/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/CustomDelegate-generated-files.hmap -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/CustomDelegate-own-target-headers.hmap -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/CustomDelegate-all-target-headers.hmap -iquote /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/CustomDelegate-project-headers.hmap -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/DerivedSources/i386 -I/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/CustomDelegate.build/Debug-iphonesimulator/CustomDelegate.build/DerivedSources -F/Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/PrecompiledHeaders/CustomDelegate-Prefix-aonbvaeswvxsvfgkmjagrjjuampy/CustomDelegate-Prefix.pch.dia -MMD -MT dependencies -MF /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/PrecompiledHeaders/CustomDelegate-Prefix-aonbvaeswvxsvfgkmjagrjjuampy/CustomDelegate-Prefix.pch.d -c /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/CustomDelegate/CustomDelegate-Prefix.pch -o /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Intermediates/PrecompiledHeaders/CustomDelegate-Prefix-aonbvaeswvxsvfgkmjagrjjuampy/CustomDelegate-Prefix.pch.pch36"F9C7B501-4A83-4BC0-B12E-4DA3A145E7BE-
+b829C87A4-E599-4CB4-8D16-3881FC72D0B4
+
+CProcessPCH /Users/willie/Library/Developer/Xcode/DerivedData/CustomDelegate-auhiagvwyhuecnfoybhytnudxola/Index/PrecompiledHeaders/CustomDelegate-Prefix-beabatybaknqzxdflraxuhwfhfrt_ast/CustomDelegate-Prefix.pch.pch CustomDelegate/CustomDelegate-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/willie/Documents/Xcode-project/github/myGit/CustomDelegate/Build/Products/Debug-iphonesimulator/CustomDelegate.app
+r0
+
