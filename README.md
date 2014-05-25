@@ -126,7 +126,7 @@ Implement following methods in your ViewController.m file.
 
 }
 
-buils and run!
+build and run!
 Enjoy!
 
 Your feedback is welcomed!
