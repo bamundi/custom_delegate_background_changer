@@ -129,6 +129,9 @@ Implement following methods in your ViewController.m file.
 build and run!
 Enjoy!
 
+By the way, Don't forget to check out more cool stuffs from my website.
+http://www.8land.org/iOS_programming/kickstarter_project
+
 Your feedback is welcomed!
 Thanks!
 
