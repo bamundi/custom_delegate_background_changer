@@ -4,7 +4,7 @@ custom_delegate_background_changer
 What is a Delegate?
 Technically speaking, a delegate is just an object that acts on behalf of another object. 
 
-The delegating object is typically a framework object, and the delegate is typically a custom controller object. In a managed memory environment, the delegating object maintains a weak reference to its delegate, and delegate itself maintains a strong reference.
+The delegating object is typically a framework object, and the delegate is typically a custom controller object. In a managed memory environment, the delegating object maintains a weak reference to its delegate, and delegate object maintains a strong reference.
 
 okay, talk is cheap. Let's see it in action!
 First, create a new file, I call it BgSlider. make it subclass of UISlider.
@@ -14,7 +14,7 @@ add following code:
 @class BgSlider; 
 // Declaring my own class, the compiler will yell at you without it. 
 
-@protocol BgSliderDelegate <NSObject> // must be subclass of NSObject! The NSObject protocol contains a method called respondsToSelector:, Calling a method that isn't implemented by the delegate object will cause your application to crash.
+@protocol BgSliderDelegate <NSObject> // must adopt minimum required methods from NSObject! The NSObject protocol contains a method called respondsToSelector:, Calling a method that isn't implemented by the delegate object will cause your application to crash.
 
 // declaring my methods
 @optional
@@ -127,6 +127,7 @@ Implement following methods in your ViewController.m file.
 }
 
 build and run!
+update your Xcode to current version if this program doesn't work on your computer.
 Enjoy!
 
 By the way, Don't forget to check out more cool stuffs from my website.
